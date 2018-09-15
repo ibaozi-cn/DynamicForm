@@ -6,3 +6,9 @@ react native dynamic form
 
 ## 架构图
 ![模块架构图](https://github.com/Papeone/DynamicForm/raw/master/framwork.png)
+    整体结构分为四大模块，如下
+### Form
+
+### ComponentFactory
+### ComponentBuilder
+### Components
