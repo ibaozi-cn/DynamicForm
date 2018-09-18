@@ -87,4 +87,4 @@ const input = this.form.getComponentByKey("username");
 
 ## License
 
-DynamicForm is released under the MIT license.
+DynamicForm is released under the Apache License.
